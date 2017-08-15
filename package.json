@@ -1,0 +1,22 @@
+{
+  "name": "donota",
+  "version": "1.0.0",
+  "description": "donota",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhk/donota.git"
+  },
+  "author": "John Holmegaard Krogh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhk/donota/issues"
+  },
+  "homepage": "https://github.com/johnhk/donota#readme",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
+}
